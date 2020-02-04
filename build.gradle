@@ -21,6 +21,7 @@ dependencies {
 	annotationProcessor('org.projectlombok:lombok')
 
 	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+	implementation 'org.springframework.boot:spring-boot-starter-jdbc'
 	implementation 'org.postgresql:postgresql'
 }
 
